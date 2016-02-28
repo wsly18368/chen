@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Easy Note</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_search">Search</string>
+    <string name="action_share">Share</string>
+    <string name="title_activity_add_note">Add Note</string>
+    <string name="title_activity_view">View</string>
+    <string name="title_activity_update_note">Update Note</string>
+</resources>
