@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Parking</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="map">地图</string>
+    <string name="news">资讯</string>
+    <string name="park">停车场</string>
+    <string name="business">周边业务</string>
+    <string name="me">我的</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+
+    <string name="other">其他</string>
+
+
+
+
+
+</resources>
